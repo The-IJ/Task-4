@@ -1,0 +1,24 @@
+.logo{
+    height:90px;
+    width:90px;
+    margin-left: 75px;
+    margin-bottom: 50px;
+    border:3px solid black;
+}
+input{
+    width:250px;
+    height:40px;
+    background-color:beige;
+}
+
+.btn{
+    float:right;
+    color: black;
+    font-weight: bold;
+}
+
+body{
+    background-image: url(https://www.shutterstock.com/image-photo/law-justice-theme-260nw-635788904.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

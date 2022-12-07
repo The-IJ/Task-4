@@ -1,0 +1,21 @@
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    /*t,r,b,l*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin-left: 750px;
+}
+
+.right {
+    transform: rotate(-45deg);
+    padding: 5px;
+}
+
+.left {
+    transform: rotate(135deg);
+    padding: 5px;
+}
